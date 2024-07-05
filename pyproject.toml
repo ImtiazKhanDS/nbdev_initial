@@ -6,7 +6,7 @@ authors = ["ImtiazKhanDS <imtiaz.khan.bds@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10.4"
 nbdev = "^2.3.25"
 jupyterlab = "^4.2.3"
 jupyterlab-quarto = "^0.3.5"
